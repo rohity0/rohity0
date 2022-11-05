@@ -57,7 +57,7 @@ To make the best use of my skills & abilities which enables me to grow in the fi
     <img src="https://komarev.com/ghpvc/?username=rohity0">
 </a>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohity0" alt="rohity0" /></a> </p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohity0&show_icons=true&locale=en" alt="hewaligogoi" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohity0&show_icons=true&locale=en" alt="rohit" /></p>
 <a href="https://github.com/rohity0?tab=followers"><img src="https://img.shields.io/github/followers/rohity0?label=Followers&style=social" alt="GitHub Badge"></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohity0&" alt="rohity0" /></p>
 
