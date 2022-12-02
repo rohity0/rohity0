@@ -63,8 +63,8 @@ To make the best use of my skills & abilities which enables me to grow in the fi
 
  <br/>
 
-
-[![Rohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohity0&theme=react-dark)](https://github.com/rohity0/github-readme-activity-graph)
+<!-- 
+[![Rohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohity0&theme=react-dark)](https://github.com/rohity0/github-readme-activity-graph) -->
 
 
 <br/>
